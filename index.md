@@ -39,6 +39,331 @@ mermaid: true
 </picture>
 
 
+![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg)
+
+[draperutah.gov/ @nasa-jpl](https://www.draperutah.gov/) //// [US, UT, Draper, 13997 S Minuteman Dr, 84020](https://earth.google.com/web/search/13997+S+Minuteman+Dr,+Draper,+UT+84020,+USA/@40.49809233,-111.88980478,1357.03085006a,190.11852343d,35y,149.35617348h,81.17454632t,360r/data=CiwiJgokCX7WD4fcYkFAEYDWD4fcYkHAGRS5DvugTUpAIRc2xq4v_E7AQgIIAUICCABKDQj___________8BEAA)
+
+[Draper To Salt LAke City Commute](https://www.google.com/maps/dir/Salt+Lake+City,+Utah/13997+Minuteman+Dr,+Draper,+UT+84020/@40.4729298,-112.1375395,10z/data=!4m14!4m13!1m5!1m1!1s0x87523d9488d131ed:0x5b53b7a0484d31ca!2m2!1d-111.8881397!2d40.7605601!1m5!1m1!1s0x875280cc33063771:0xe20ca31a02951b78!2m2!1d-111.889471!2d40.4975455!3e0!5m2!1e4!1e1?entry=ttu&g_ep=EgoyMDI2MDcyNy4wIKXMDSoASAFQAw%3D%3D)
+<img  alt="image" src="https://github.com/user-attachments/assets/2de5f11b-0b33-4e9e-b687-a5673e1d39d5" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/2ae9b77a-5cbb-41db-aac3-f608177c5266" />
+
+
+@asfadmin our email in public dns is listed as coing from here  @nasa-jpl @nasa-pds
+
+# MX Records @nasa-jpl @usnavy
+| Domain Name | MX | TTL | 
+|-------------|----|-----|
+| jpl.nasa.gov | mxb-0020b901.gslb.pphosted.com. | 15745 | 
+| jpl.nasa.gov | mxa-0020b901.gslb.pphosted.com. | 15745 | 
+| spacex.com | mxb-003ea501.gslb.gpphosted.com. | 15745 | 
+| spacex.com | mxa-003ea501.gslb.gpphosted.com. | 15745 | 
+| longbeach.gov | mxb-00539a01.gslb.pphosted.com. | 15745 | 
+| longbeach.gov | mxa-00539a01.gslb.pphosted.com. | 15745 |
+| atlantaga.gov | mxb-003fa601.gslb.pphosted.com. | 15745 |
+| atlantaga.gov | mxa-003fa601.gslb.pphosted.com. | 15745 |
+| fultoncountyga.gov | mxa-0032a901.gslb.pphosted.com. | 15745 |
+| fultoncountyga.gov | mxb-0032a901.gslb.pphosted.com. | 15745 |
+| bet.com | mxa-00262c01.gslb.pphosted.com. | 15745 |
+| bet.com | mxb-00262c01.gslb.pphosted.com. | 15745 |
+| mtv.com | [dnschecker.org](dnschecker.org) | 15745 |
+| mtv.com | [dnschecker.org](dnschecker.org) | 15745 |
+
+
+
+ MX Records  @SpaceExplorationTechnoligies
+spacex.com	mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+spacex.com	mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+|	mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.|
+|jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.|
+
+[search.asf.alaska.edu/#/?zoom=16.047&center=-111.890,40.495&polygon=POINT(-111.8642%2040.5251)](https://search.asf.alaska.edu/#/?zoom=16.047&center=-111.890,40.495&polygon=POINT(-111.8642%2040.5251))
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/ed106508-5013-4243-926f-399e528adefa" />
+S1C_IW_GRDH_1SDV_20260725T012627_20260725T012652_008693_01139E_E8C2 @asfadmin
+<img   alt="image" src="https://github.com/user-attachments/assets/52f3bc88-6e4d-48e0-ae52-def131241504" />
+<img width="1024" height="756" alt="image" src="https://github.com/user-attachments/assets/266db502-9e28-4780-9c6a-908f458f236f" />
+
+
+[browser.dataspace.copernicus.eu/?zoom=16&lat=40.49765&lng=-111.89029&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BSzFXCCULFTCiZj6dLBSsiAmRJnMMrxI05W%2B9%2BaVeJ3GrPiXmGIvEdyOO41IDRokdB1g7is9O7Kko1wooSIozqtrLHfX5qGEFvbQrGcZgKKPM8bPX5GDPj&datasetId=S2_L2A_CDAS&fromTime=2026-07-25T00%3A00%3A00.000Z&toTime=2026-07-25T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=16&lat=40.49765&lng=-111.89029&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BSzFXCCULFTCiZj6dLBSsiAmRJnMMrxI05W%2B9%2BaVeJ3GrPiXmGIvEdyOO41IDRokdB1g7is9O7Kko1wooSIozqtrLHfX5qGEFvbQrGcZgKKPM8bPX5GDPj&datasetId=S2_L2A_CDAS&fromTime=2026-07-25T00%3A00%3A00.000Z&toTime=2026-07-25T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/37319bae-e736-44ac-a26b-b57e996d0285" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/f289e426-816e-4825-9ea4-98b37dca6e7c" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/063f49d1-4d98-4015-8037-00b909405580" />
+<img  alt="image" src="https://github.com/user-attachments/assets/861970a0-9a1b-43b6-ba2a-3dac9c2a16ef" />
+
+
+@nasa-pds im scared of how humiliating my try at dating was so if Total Uptime black please support me with rejection [linkedin.com/company/totaluptime](https://www.linkedin.com/company/totaluptime) @blackgirlscode
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| longbeach.gov | b8.uberns.org. | 15745 | 
+| longbeach.gov | a8.uberns.org. | 15745 | 
+| longbeach.gov | b8.uberns.com. | 15745 | 
+| longbeach.gov | a8.uberns.com. | 15745 | 
+| longbeach.gov | mxb-00539a01.gslb.pphosted.com. | 15745 | 
+| longbeach.gov | mxa-00539a01.gslb.pphosted.com. | 15745 |
+
+```
+IP address 216.59.57.8
+Hostname b8.uberns.net
+Provider Total Uptime Technologies, LLC
+```
+
+`uberns.com.		300	IN	SOA	a1.uberns.com. itmanager.uberns.com. 2021082001 14400 7200 1209600 300`
+
+@nasa-jpl [https://totaluptime.com/](https://totaluptime.com/)
+@doug-newman-nasa just working some details out for long beach @Blackgirlscode
+
+![https://totaluptime.com/wp-content/uploads/2026/06/TU_horizontal_Web-350-x-100-px-1.svg](https://totaluptime.com/wp-content/uploads/2026/06/TU_horizontal_Web-350-x-100-px-1.svg)
+
+# MX Records  @nasa-jpl @la-county-isd @Longbeachinnovationteam
+# _LongBeach Mail Exchange_
+## mxb-00539a01.gslb.pphosted.com.
+
+| Mx Record | mxb-00539a01.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 148.163.134.252 | 
+| Status | Success | 
+| Test duration(ms) | 68 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 148.163.128.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxa-00539a01.gslb.pphosted.com.
+
+| Mx Record | mxa-00539a01.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 148.163.134.252 | 
+| Status | Success | 
+| Test duration(ms) | 66 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 148.163.128.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : [US, UT, Draper, 13997 S Minuteman Dr, 84020](https://earth.google.com/web/search/13997+S+Minuteman+Dr,+Draper,+UT+84020,+USA/@40.49809233,-111.88980478,1357.03085006a,190.11852343d,35y,149.35617348h,81.17454632t,360r/data=CiwiJgokCX7WD4fcYkFAEYDWD4fcYkHAGRS5DvugTUpAIRc2xq4v_E7AQgIIAUICCABKDQj___________8BEAA)<br />Country: US<br /> | 
+
+# MX Record Result for: atlantaga.gov 
+@foratlanta
+
+## mxa-003fa601.gslb.pphosted.com.
+
+| Mx Record | mxa-003fa601.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 148.163.137.27 | 
+| Status | Success | 
+| Test duration(ms) | 25 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 148.163.128.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxb-003fa601.gslb.pphosted.com.
+
+| Mx Record | mxb-003fa601.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 148.163.137.27 | 
+| Status | Success | 
+| Test duration(ms) | 22 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 148.163.128.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+
+
+@nasa-pds 
+Result for: horizons.jpl.nasa.gov
+# MX Records 
+
+## mxa-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxa-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 25 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxb-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxb-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.147.103 | 
+| Status | Success | 
+| Test duration(ms) | 66 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+
+
+
+
+
+# MX Records @nasa-jpl @usnavy
+
+jpl.nasa.gov	mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+
+## mxa-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxa-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 25 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxb-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxb-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 20 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+
+
+# MX Records 
+@SpaceExplorationTechnoligies
+spacex.com	mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+spacex.com	mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+
+## mxa-003ea501.gslb.gpphosted.com.
+
+| Mx Record | mxa-003ea501.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.227.33 | 
+| Status | Success | 
+| Test duration(ms) | 68 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxb-003ea501.gslb.gpphosted.com.
+
+| Mx Record | mxb-003ea501.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.227.33 | 
+| Status | Success | 
+| Test duration(ms) | 67 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+# MX Records 
+
+## mxb-0038fd02.gslb.gpphosted.com.
+
+| Mx Record | mxb-0038fd02.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.228.37 | 
+| Status | Success | 
+| Test duration(ms) | 28 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+## mxa-0038fd02.gslb.gpphosted.com.
+
+| Mx Record | mxa-0038fd02.gslb.gpphosted.com. | 
+| -----------|----------------------------------|
+| IP | 66.159.227.37 | 
+| Status | Success | 
+| Test duration(ms) | 66 | 
+| AS Number | AS26211 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 66.159.224.0/19<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+ @nbcnews spacex mail served from utah according to this @blackgirlscode @nasa-pds @nasa-jpl @deptofwar
+
+# NS Records 
+@doug-newman-nasa @nasa-openscapes @nasa-giss [nslookup hostnames in log - clickhere](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log)
+sad @nasa-jpl @nasa 
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| war.gov | use2.akam.net. | 21600 | 
+| war.gov | ns1-95.akam.net. | 21600 | 
+| war.gov | eur6.akam.net. | 21600 | 
+| war.gov | use9.akam.net. | 21600 | 
+| war.gov | usc5.akam.net. | 21600 | 
+| war.gov | asia3.akam.net. | 21600 | 
+| war.gov | asia2.akam.net. | 21600 | 
+| war.gov | ns1-116.akam.net. | 21600 | 
+
+
+@doug-newman-nasa @nasa-openscapes @nasa-giss [nslookup hostnames in log - clickhere](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log)
+sad @nasa-jpl @nasa 
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| war.gov | use2.akam.net. | 21600 | 
+| war.gov | ns1-95.akam.net. | 21600 | 
+| war.gov | eur6.akam.net. | 21600 | 
+| war.gov | use9.akam.net. | 21600 | 
+| war.gov | usc5.akam.net. | 21600 | 
+| war.gov | asia3.akam.net. | 21600 | 
+| war.gov | asia2.akam.net. | 21600 | 
+| war.gov | ns1-116.akam.net. | 21600 | 
+
+
+@USnavy , @icegov got comprimised, idk where the team is coding now . . . @Whitehouse [github.com/icegov](https://github.com/icegov)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5da445ba-85fc-43d9-bc23-477727ab97b7" />
+
+
+[ @GitHub is trying to quell employee anger over its ICE contract. It’s not going well @datadesk](https://www.latimes.com/business/technology/story/2019-10-31/github-ice-contract-defense)
+<img  alt="image" src="https://github.com/user-attachments/assets/fdb51c22-ce10-4184-bbd1-06f71f217693" />
+
+
+
+@ice-gov 
+@CityOfLosAngeles Karen Bass @noaagov @nasa-jpl @nasa-pds @dhs-gov
+[FY12-24YTD ICE detention analysis @UWCHR](https://uwchr.github.io/ice-detain/) /// [`Employees ask @GitHub` to cancel ICE contract](https://www.washingtonpost.com/technology/2019/10/09/employees-ask-github-cancel-ice-contract-we-cannot-offset-human-lives-with-money/)
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">I clashed with Trump&#39;s ICE agents and Angeleno&#39;s locked arms to protect our neighbors.<br><br>I achieved the first two-year drop in homelessness ever. <br><br>I battled red tape and insurers to help families rebuild from fires. <br><br>Now, I haven&#39;t always got it right. There&#39;s more work to do.… <a href="https://t.co/NUArlCsFF9">pic.twitter.com/NUArlCsFF9</a></p>&mdash; Karen Bass (@KarenBassLA) <a href="https://x.com/KarenBassLA/status/2047707712029675791?ref_src=twsrc%5Etfw">April 24, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+[https://www.onlinegdb.com/online_bash_shell](https://www.onlinegdb.com/online_bash_shell)
+<img   alt="image" src="https://github.com/user-attachments/assets/34d706d6-1af7-467b-a7c1-d9fbe7306958" />
+
+![https://web.archive.org/web/19970519060142im_/http://nssdc.gsfc.nasa.gov/logo/nssdc_logo_bg.gif](https://web.archive.org/web/19970519060142im_/http://nssdc.gsfc.nasa.gov/logo/nssdc_logo_bg.gif) 
+[https://web.archive.org/web/19970519060142/http://nssdc.gsfc.nasa.gov/ 1997 @nasa-giss @nasa-jpl](https://web.archive.org/web/19970519060142/http://nssdc.gsfc.nasa.gov/)
+<img   alt="image" src="https://github.com/user-attachments/assets/3f7bea67-3d5b-4142-8134-6db3b6f9e640" />
+
+[nssdc.gsfc.nasa.gov/planetary](nssdc.gsfc.nasa.gov/planetary)
+nssdc.gsfc.nasa.gov/planetary domain transfer 
+[Solar System Exploration Data Services Office 690.1](https://science.gsfc.nasa.gov/solarsystem/dataarchives/projects/232/)
 
 @blackgirlscode 
 
