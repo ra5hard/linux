@@ -39,6 +39,216 @@ mermaid: true
 </picture>
 
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMaOxuw5wnE?si=6FF7BzjJkOoCPppR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Remy Ma On Her Soft Girl Era, New Music & Angie's Summer BBQ
+@blackgirlscode [WATCH - youtu.be/Hz4VHZDAAiI?si=To00HCZVv3_SxpWm @nasa-jpl](https://youtu.be/Hz4VHZDAAiI?si=To00HCZVv3_SxpWm)
+<img alt="image" src="https://github.com/user-attachments/assets/c3c235eb-2a07-42a9-9e9e-4f93ed3caf48" />
+
+
+## The Cheltenham High School Football Hazing Scandal
+[WATCH - youtu.be/qeTty9FCyPo?si=mLFioCBZMWVnbniS](https://youtu.be/qeTty9FCyPo?si=mLFioCBZMWVnbniS)
+<img  alt="image" src="https://github.com/user-attachments/assets/5c91c50a-958c-42c8-8f78-0c1cac345e9c" />
+
+
+Monaleo on Beyoncé's Mentorship & [Mike Jones](https://youtu.be/7ZAYzLjQAd4?si=D_L5jGR_2d3u_BZz)'s [Houston Legacy](https://www.youtube.com/live/ea9gZp_KxBU?si=8_mP5BlmPbqyE1pc) | 360 With Jillian
+[WATCH - youtu.be/PdCxe7_e4SA?si=D6PkcOJ7bjqC2DlE](https://youtu.be/PdCxe7_e4SA?si=D6PkcOJ7bjqC2DlE)
+<img  alt="image" src="https://github.com/user-attachments/assets/1d21d6a9-0023-44ec-be93-66df38c90e16" />
+
+
+## Seattle’s Police Chief Fired & The Minnesota Cyber Attack 
+[WATCH - youtu.be/4aYHbRiyxJU?si=scYDW963ymTkKNpP](https://youtu.be/4aYHbRiyxJU?si=scYDW963ymTkKNpP)
+@howard-university-web-services @emergingcoders
+<img alt="image" src="https://github.com/user-attachments/assets/e3aea254-54e5-4964-99be-e7e0c6935d5d" />
+
+@asfadmin our email in public dns is listed as coing from here  @nasa-jpl @nasa-pds
+
+# MX Records @nasa-jpl @usnavy
+| Domain Name | MX | TTL | 
+|-------------|----|-----|
+| jpl.nasa.gov | mxb-0020b901.gslb.pphosted.com. | 15745 | 
+| jpl.nasa.gov | mxa-0020b901.gslb.pphosted.com. | 15745 | 
+| spacex.com | mxb-003ea501.gslb.gpphosted.com. | 15745 | 
+| spacex.com | mxa-003ea501.gslb.gpphosted.com. | 15745 | 
+| longbeach.gov | mxb-00539a01.gslb.pphosted.com. | 15745 | 
+| longbeach.gov | mxa-00539a01.gslb.pphosted.com. | 15745 |
+| atlantaga.gov | mxb-003fa601.gslb.pphosted.com. | 15745 |
+| atlantaga.gov | mxa-003fa601.gslb.pphosted.com. | 15745 |
+| fultoncountyga.gov | mxa-0032a901.gslb.pphosted.com. | 15745 |
+| fultoncountyga.gov | mxb-0032a901.gslb.pphosted.com. | 15745 |
+| bet.com | mxa-00262c01.gslb.pphosted.com. | 15745 |
+| bet.com | mxb-00262c01.gslb.pphosted.com. | 15745 |
+| mtv.com | [dnschecker.org](dnschecker.org) | 15745 |
+| mtv.com | [dnschecker.org](dnschecker.org) | 15745 |
+
+## Extended interview: Doja Cat
+@cbs-news-data [Watch - youtu.be/6iHNEJ1vhUg?si=r2V3MQ0H3kMjcv6E](https://youtu.be/6iHNEJ1vhUg?si=r2V3MQ0H3kMjcv6E)
+<img  alt="image" src="https://github.com/user-attachments/assets/e9ed6c0f-be16-40a2-9e41-742f24163c4d" />
+
+
+##  Chlöe: Dating, Body Image, & Sisterhood with Latto
+@apple @disney chloe is not in danger but she hurt my body @nasa-jpl 
+@blackgirlscode like the physicla her not me masturbating to her nudes 
+@nbcnews @foratlanta @newshour 
+[WATCH - youtu.be/Tyc9Q2vXLyQ?si=d_PKLjBZbZ_LvsV0](https://youtu.be/Tyc9Q2vXLyQ?si=d_PKLjBZbZ_LvsV0)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a0832b6f-dfd0-43b9-87fd-423c16075727" />
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pcen_bZnMY4?si=DR8q1x8ZhGK-jftK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oL9yWKzRQy4?si=wyHJ_Bj8Fa7Tg4UI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKSz4NE6PwY?si=yVztoZ_NBG6DPrVr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I29P2zHNGdI?si=40mVCzOsRI1L6H2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I6ZsCn2U-mU?si=ZsCaYkdwmMpSCy3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qt7MZc0ik6c?si=Ow8HQIK3zLF0DVzP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4GdB5M7GbwLZLouktYocFC?utm_source=generator&si=ff555111f8c6482e" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<img  alt="tumblr_35300d3bd6591f7bf5cc45653bf20532_52a1c7bf_1280" src="https://github.com/user-attachments/assets/2a53188a-e294-4874-906b-dd8d827a7f64" />
+
+
+@nasa-jpl @ersi i like it [LongBeach](https://arcg.is/Ty4i91)
+![image](https://github.com/user-attachments/assets/9a83fac5-f300-41cb-82fb-f9565e15d147)
+
+>This Guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County. Our goal is to provide tips that assist you to be self-sufficient after a disaster
+
+<img src= "https://lacounty.gov/wp-content/uploads/2022/03/Emerg.Survival.Guide_-232x300.jpg" alt="Emergency Survival Guide" style="width:232px;height:300px;margin-right:5px;padding:10px;" align="left" alt="Pineapple" />
+
+ [This guide will help you to better prepare for, respond to and recover from disasters that face Los Angeles County.](https://lacounty.gov/emergency/preparedness/emergency-survival-guide/)
+
+Its hard to explin everything in one quick note. But basically I was in Atlanta and [My Wife Vanished](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) and i got destituted by ppl throwing me in the mental hospital a girl i was told was my cousin [Kelly Danielle](https://www.instagram.com/daniellekellybjj/p/Cdw9_9nsfEe/?img_index=1) Renee Williams daughter by Winfred. My daughter was taken and i cannot even get a cellphone. 
+## Proposition 64: The Adult Use of Marijuana Act
+Overview [The California Cannabis Hemp Initiative of 2014](https://lao.ca.gov/ballot/2014/140072.aspx)
+Effective November 9, 2016, Proposition 64 legalizes specified personal use and cultivation of marijuana for adults 21 years of age or older; reduces criminal penalties for specified marijuana-related offenses for adults and juveniles; and authorizes resentencing or dismissal and sealing of prior, eligible marijuana-related convictions. The proposition includes provisions on regulation, licensing, and taxation of legalized use. [California Courts](https://www.courts.ca.gov/prop64.htm) [Proposition 64 and Responsible Adult Use of Marijuana LA_COUNTY California](http://publichealth.lacounty.gov/sapc/public/proposition64.htm) [MEDICAL MARIJUANA IDENTIFICATION CARD PROGRAM](http://publichealth.lacounty.gov/docs/MMIP-FLYER.pdf) [Proposition 64 (Marijuana Offenses) FAQ [SanDieago]](https://www.sandiegocounty.gov/content/sdc/public_defender/prop_64_faq.html) [Proposition 64 - Personal Non-Medical Use of Cannabis Brea California](https://www.ci.brea.ca.us/1376/Prop-64-FAQ) [Prop 64 FAQs](https://www.santa-ana.org/prop-64-faqs/) [San Francisco Prop64 FAQ](https://sfpublicdefender.org/services/prop-64-faq/) When does Proposition 64 take effect? Proposition 64 took effect November 9, 2016. You can and should seek relief right away. [prop64](https://images.procon.org/wp-content/uploads/sites/16/ca-prop-64-marijuana.pdf) [Marijuana Initiative Enters Circulation](https://www.sos.ca.gov/administration/news-releases-and-advisories/2014-news-releases-and-advisories/db14-011) [Medicinal Cannabis: History, Pharmacology, And Implications for the Acute Care Setting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5312634/) [Congress quietly ends federal government’s ban on medical marijuana](https://www.latimes.com/nation/la-na-medical-pot-20141216-story.html)
+
+[DOWNLOAD~MARIJUANA LEGALIZATION. INITIATIVE STATUTE Proposition64](https://slper.senate.ca.gov/sites/slper.senate.ca.gov/files/Background%20Supplemental%20-%20Prop%2064%20Text.pdf)
+
+
+[Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
+
+
+![SVG LOS ANGELES](https://upload.wikimedia.org/wikipedia/commons/6/65/Seal_of_Los_Angeles_County%2C_California.svg)
+
+
+<object data="https://ia801809.us.archive.org/19/items/image_20250428_2325/jobsandfirerecoverySimpleScanStation20250630135424.pdf" type="application/pdf" width="800" height="500"></object>
+
+<img alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/f4978247-4891-457d-b04b-886c15e40e78" />
+
+<img alt="tumblr_8fbfbbeec24ccb1a42b7d0a9038e0bab_e4d210df_1280" src="https://github.com/user-attachments/assets/e74a27a0-de2f-43b1-b42c-6187ab1e7f84" />
+<img   alt="tumblr_1366c97ddc23776db026ef34172efdda_070fa3c6_1280" src="https://github.com/user-attachments/assets/6fd93a7a-1b19-4743-b040-11d8aefd8ba2" />
+
+
+[draperutah.gov/ @nasa-jpl](https://www.draperutah.gov/) //// [US, UT, Draper, 13997 S Minuteman Dr, 84020](https://earth.google.com/web/search/13997+S+Minuteman+Dr,+Draper,+UT+84020,+USA/@40.49809233,-111.88980478,1357.03085006a,190.11852343d,35y,149.35617348h,81.17454632t,360r/data=CiwiJgokCX7WD4fcYkFAEYDWD4fcYkHAGRS5DvugTUpAIRc2xq4v_E7AQgIIAUICCABKDQj___________8BEAA)
+![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg)
+
+
+[github.com/ @dolphin-emu /dolphin](https://github.com/dolphin-emu/dolphin)
+@dolphin-emu hi I was running a [cloud C8](https://www.cloudmobileusa.com/products/p/stratus-c8-smartphone) and later a [Blue5](https://www.bluproducts.com/devices/view-5/index.html) and under @libretro I could never get nothing healthy. Is it because the entire iso is loaded into memory ? [@ra5hard: _SmartPhoneLAb_](https://ra5hard.github.io/smartphone1) [@thakarashard /computing](https://thakarashard.github.io/rashardmro/2026/07/03/ComputinG.html) 
+
+![https://www.bluproducts.com/devices/view-5/images/t-e12.webp](https://www.bluproducts.com/devices/view-5/images/t-e12.webp)
+
+<img alt="tumblr_1b096c693a6e4ab9d54d4f7b329ecfdb_519b4a8d_12802-ezgif com-webp-to-gif-converter" src="https://github.com/user-attachments/assets/4e703873-067b-47d7-a182-a7596b67645f" />
+
+[rashardgds.tumblr.com/](https://rashardgds.tumblr.com/)
+@la-county-isd MAyor Bass if its time to run away from a particular girl this is the avenue [rashardgds.tumblr.com/post/820299943212384256](https://rashardgds.tumblr.com/post/820299943212384256) /// [https://rashardgds.tumblr.com/archive](https://rashardgds.tumblr.com/archive)
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1192830019&color=%2399e1ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/youngmoneybarbie" title="Nicki Minaj" target="_blank" style="color: #cccccc; text-decoration: none;">Nicki Minaj</a> · <a href="https://soundcloud.com/youngmoneybarbie/barbie-drip" title="Barbie Drip" target="_blank" style="color: #cccccc; text-decoration: none;">Barbie Drip</a></div>
+
+<img src="https://64.media.tumblr.com/f6525642f9296661a76527c6a82aa788/4b46487d78d67394-a1/s1280x1920/5d3c9cba60d554a142a8f553f86b7684dac817ac.png"/>
+<img src="https://64.media.tumblr.com/f286c19d307a4001fc3ab802608a67a6/7b048c672aed1346-41/s1280x1920/2e3b14414cf54276e96cee49731e026452d9c881.jpg"/>
+
+@emergingcoders can you get this to lana ? [go.nasa.gov/4pLmEMZ](https://worldview.earthdata.nasa.gov/?v=-159.84845942528992,26.80087244466457,-109.8640449961849,51.402576421489705&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-07-30-T22%3A24%3A19Z)
+- [Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Settlement Points](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grumpv1-stlmnt-1.00)
+- [Global Reservoir and Dam Database, Version 1 (GRanDv1): Reservoirs, Revision 01](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grandv1-reservoirs-1.01)
+<img   alt="image" src="https://github.com/user-attachments/assets/f774c746-eae4-4ac6-bc8b-f4b1ef6414fa" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/096fdb18-a7e8-4cd3-9b45-1e56145d5c95" />
+
+# The Los Angeles Resivoir
+@CityOfLosAngeles
+
+[AV320250130t230650_000_L1B_RDN_4842d6a3_RDN_BROWSE.jpg](https://search.earthdata.nasa.gov/search/granules?p=C3236537162-ORNL_CLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G3658899032-ORNL_CLOUD&q=aviris&sb[0]=-118.69028%2C33.52131%2C-117.86817%2C34.33821&qt=2025-01-01T00%3A00%3A00.000Z%2C2025-01-31T23%3A59%3A59.999Z&lat=34.29852585&long=-118.48143955313013&zoom=14.213271498682408)
+
+<img   alt="AV320250130t230650_000_L1B_RDN_4842d6a3_RDN_BROWSE" src="https://github.com/user-attachments/assets/15cf770e-d1a8-405f-aaa7-d533b5b90ee0" />
+<img  alt="image" src="https://github.com/user-attachments/assets/e84e379c-f87e-436b-9003-159cb344ca24" />
+
+
+# 2025 @la-county-isd Fires
+I lost an account where these images were stored earthdatarashard on @vsco
+<img alt="AV320250111t213547_004_L2A_OE_f576f24d_RFL_ORT_BROWSE (1)" src="https://github.com/user-attachments/assets/6e727c39-7fb2-4c78-9b52-3ff446eb4ac2" />
+
+<img  alt="AV320250123t202047_001_L2A_OE_f576f24d_RFL_ORT_BROWSE" src="https://github.com/user-attachments/assets/415bed78-1f1b-46a2-885c-101fa7ab105d" />
+
+![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+
+# AVIRIS-5 L2A Orthocorrected Surface Reflectance,
+Facility Instrument Collection [@ornldaac - Data at a Glance](https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-av3-l2a-rfl-2357-1)
+@cityoflosangeles
+<img  alt="image @cityoflosangeles @nasa-jpl " src="https://github.com/user-attachments/assets/02673300-e1a2-476f-aedd-40fa7b7f12b5" />
+
+
+[aviris.jpl.nasa.gov/](https://aviris.jpl.nasa.gov/)   //// [@nasa whats up with this domain @la-county-isd web.archive.org/web/20201027205042/https://wildfire.jpl.nasa.gov/](https://web.archive.org/web/20201027205042/https://wildfire.jpl.nasa.gov/)
+@nasa-jpl i see you guys had to be quiet about the fire work, 
+[NASA/Forest Service Maps Aid Fire Recovery](https://www.jpl.nasa.gov/news/nasaforest-service-maps-aid-fire-recovery/)
+April 9, 2015
+<img  alt="image" src="https://github.com/user-attachments/assets/d44529d4-4d86-4845-bbc9-38c12a72e80a" />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8GmXfGvDlZs?si=pR3bN4z3TC9sDTzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[experiments.withgoogle.com/access-mars @nasa-pds @blackgirlscode ](https://experiments.withgoogle.com/access-mars)
+
+
+[draperutah.gov/ @nasa-jpl](https://www.draperutah.gov/) //// [US, UT, Draper, 13997 S Minuteman Dr, 84020](https://earth.google.com/web/search/13997+S+Minuteman+Dr,+Draper,+UT+84020,+USA/@40.49809233,-111.88980478,1357.03085006a,190.11852343d,35y,149.35617348h,81.17454632t,360r/data=CiwiJgokCX7WD4fcYkFAEYDWD4fcYkHAGRS5DvugTUpAIRc2xq4v_E7AQgIIAUICCABKDQj___________8BEAA)
+![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg)
+
+@asfadmin 
+<img alt="image" src="https://github.com/user-attachments/assets/5a512e03-beab-4a05-bdcd-99fc55b6f83a" />
+
+Result for: horizons.jpl.nasa.gov
+# MX Records 
+
+## mxa-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxa-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 25 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+<img alt="image" src="https://github.com/user-attachments/assets/22df1261-8f79-40e6-9c2c-a574469ae0fe" />
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hObyglgz-kI?si=p_tbVbg8j01TomHR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Governor Newsom visits Space Beach and highlights California’s aerospace dominance
+SPaceBeach [gov.ca.gov-READ](https://www.gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/)
+@StateOfCalifornia Governor i Missed your visit, i could have quelled some of my head anger about [Covid ipv](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/pdf/10.1177_27551938231185968.pdf) and been a merry worker
+im working the [colocation issues](https://www.hpe.com/us/en/what-is/data-center-colocation.html) and continuing my audit @nasa-pds @deptofwar @usnavy @FBiCYBER @HPInc
+[gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/](https://www.gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/)
+
+| Domain Name | NS | TTL | TownShip |
+|-------------|----|-----|----------|
+| jpl.nasa.gov @nasa-pds | a14-67.akam.net. | 21600 | @Chicago |
+| war.gov @deptofwar| asia3.akam.net. | 21600 | @kstateome |
+
+
+
 ![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg)
 
 [draperutah.gov/ @nasa-jpl](https://www.draperutah.gov/) //// [US, UT, Draper, 13997 S Minuteman Dr, 84020](https://earth.google.com/web/search/13997+S+Minuteman+Dr,+Draper,+UT+84020,+USA/@40.49809233,-111.88980478,1357.03085006a,190.11852343d,35y,149.35617348h,81.17454632t,360r/data=CiwiJgokCX7WD4fcYkFAEYDWD4fcYkHAGRS5DvugTUpAIRc2xq4v_E7AQgIIAUICCABKDQj___________8BEAA)
