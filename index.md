@@ -38,6 +38,14 @@ mermaid: true
   
 </picture>
 
+[github.com/ @dolphin-emu /dolphin](https://github.com/dolphin-emu/dolphin)
+@dolphin-emu hi I was running a [cloud C8](https://www.cloudmobileusa.com/products/p/stratus-c8-smartphone) and later a [Blue5](https://www.bluproducts.com/devices/view-5/index.html) and under @libretro I could never get nothing healthy. Is it because the entire iso is loaded into memory ? [@ra5hard: _SmartPhoneLAb_](https://ra5hard.github.io/smartphone1) [@thakarashard /computing](https://thakarashard.github.io/rashardmro/2026/07/03/ComputinG.html) 
+
+![https://www.bluproducts.com/devices/view-5/images/t-e12.webp](https://www.bluproducts.com/devices/view-5/images/t-e12.webp)
+
+<img alt="tumblr_1b096c693a6e4ab9d54d4f7b329ecfdb_519b4a8d_12802-ezgif com-webp-to-gif-converter" src="https://github.com/user-attachments/assets/4e703873-067b-47d7-a182-a7596b67645f" />
+
+
 
 ![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg)
 
