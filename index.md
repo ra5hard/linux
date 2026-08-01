@@ -38,6 +38,17 @@ mermaid: true
   
 </picture>
 
+<img width="600" height="600" alt="ezgif com-resize" src="https://github.com/user-attachments/assets/1d59dddc-0207-4359-8801-e71c761ff89d" />
+
+
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/164a419b-e748-444d-8bad-3eb4ab3112a7" />
+
+ # AVIRIS-5 L2A Orthocorrected Surface Reflectance,
+Facility Instrument Collection [@ornldaac - Data at a Glance](https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-av3-l2a-rfl-2357-1)
+@cityoflosangeles
+<img  alt="image @cityoflosangeles @nasa-jpl " src="https://github.com/user-attachments/assets/02673300-e1a2-476f-aedd-40fa7b7f12b5" />
+
+
 [github.com/ @dolphin-emu /dolphin](https://github.com/dolphin-emu/dolphin)
 @dolphin-emu hi I was running a [cloud C8](https://www.cloudmobileusa.com/products/p/stratus-c8-smartphone) and later a [Blue5](https://www.bluproducts.com/devices/view-5/index.html) and under @libretro I could never get nothing healthy. Is it because the entire iso is loaded into memory ? [@ra5hard: _SmartPhoneLAb_](https://ra5hard.github.io/smartphone1) [@thakarashard /computing](https://thakarashard.github.io/rashardmro/2026/07/03/ComputinG.html) 
 
