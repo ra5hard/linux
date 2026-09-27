@@ -44,6 +44,30 @@ mermaid: true
 {% endhighlight %}
 
 
+
+
+# Super Chase - Criminal Termination 1993
+## スーパー・チェイス・クリミナル・ターミネション
+[wiki](https://en.wikipedia.org/wiki/Super_Chase_H.Q.) : [Museum](https://www.arcade-museum.com/Videogame/super-chase-criminal-termination)  : [LaunchBoX](https://gamesdb.launchbox-app.com/games/details/39251-super-chase-criminal-termination)
+: [AbandonWare](https://www.myabandonware.com/game/super-chase-criminal-termination-aue)
+<img width="320" height="78" alt="strategywiki.org/wiki/File:Super_Chase_marquee" src="https://github.com/user-attachments/assets/cfb677ff-4c75-406f-acc5-6d42ef5eafff" />
+
+<iframe src="https://archive.org/embed/arcade_superchs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Shaakira_Gathers_iLoveu](https://rashardiman.github.io/)
+
+[Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
+
+[https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554)
+
+# NASA Appropriations and Authorizations:
+At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance
+[READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
+[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
+@cityoflosangeles 
+[@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog) + [@rashardgds BuildingBlocks](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-09-15-BuildingBlocks.md) `<- sites with outages @whitehouse @dhs-gov
+[Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal @nasa-jpl](https://www.youtube.com/watch?v=BLzEvT-mdkU)
+
 ## Air Combat 
 `NAmco System 22` 
 @boeing have you tried air combat , i left some notes for @sony on my android work for a position in @CityOfSantaMonica [@nasa-pds](https://jobs.boeing.com/job/el-segundo/it-systems-administrator-millennium-space-systems/185/96973127232) [archive.org/details/arcade_airco22b](https://archive.org/details/arcade_airco22b) /// [github.com/mamedev/mame](https://github.com/mamedev/mame) . . . @USNAVY [VictorGlover](https://www.calpoly.edu/victor-glover) <~ @SonyResearch @activision @BandaiNamcoResearchInc [en.wikipedia.org/wiki/List_of_Namco_arcade_system_boards#Arcade_system_boards](https://en.wikipedia.org/wiki/List_of_Namco_arcade_system_boards#Arcade_system_boards) // [ridgeracer.fandom.com/wiki/Namco_System_22](https://ridgeracer.fandom.com/wiki/Namco_System_22) // [acecombat.wiki.gg/wiki/Air_Combat_22 @nasa-jpl hi @blackgirlscode](https://acecombat.wiki.gg/wiki/Air_Combat_22)
